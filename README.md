@@ -1,7 +1,7 @@
-# Kubernetes Installation and Configuration Fundamentals
+# Managing the Kubernetes API Server and Pods
 
-[Kubernetes Installation and Configuration Fundamentals](https://app.pluralsight.com/library/courses/kubernetes-installation-configuration-fundamentals/table-of-contents)
-Let’s get you started learning Kubernetes. First, you'll learn about its architecture, and then how to install your first cluster. With that cluster up and running you'll explore how to work with it and deploy applications in Kubernetes!
+[Managing the Kubernetes API Server and Pods](https://app.pluralsight.com/library/courses/managing-kubernetes-api-server-pods)
+It's time to dig deeper into Kubernetes. You will learn about its API architecture and its internals, how to organize workloads, and look closely at the primary workload element in Kubernetes, the Pod.
 
 ## Author
 [Anthony Nocentino](https://app.pluralsight.com/profile/author/anthony-nocentino)
@@ -10,4 +10,4 @@ Let’s get you started learning Kubernetes. First, you'll learn about its archi
 [Pluralsight](https://www.pluralsight.com/)
 
 ## Description
-It's time to take your Kubernetes admin skills to the next level and dig into how to deploy and manage container-based applications in Kubernetes. In this course, Managing the Kubernetes API Server and Pods, you will gain the ability to deploy, manage, and troubleshoot container-based workloads in Kubernetes. First, you will learn how to use the Kubernetes API and API Server internals. Next, you will discover how to use labels, annotations, and namespaces to organize the largest workloads and how Kubernetes uses labels internally for its own operations. Finally, you will explore how to create, manage, and maintain healthy container-based applications with the primary Kubernetes workload construct, the Pod. When you're finished with this course, you will have the skills and knowledge of creating and maintaining container-based workloads in Kubernetes. This course can also help you prepare for your Certified Kubernetes Administrator (CKA) certification.
+Let’s take your Kubernetes admin skills to the next level and get you started learning how to install, configure and work with a Kubernetes cluster. In this course, Kubernetes Installation and Configuration Fundamentals, you will learn foundational knowledge needed to install, configure and deploy applications in a Kubernetes cluster. First, you will learn about Kubernetes' architecture, looking closely at each of the cluster's components and their roles. Next, you will discover how to install and configure a Kubernetes cluster: you'll look at how to perform installations on-premises with kubeadm, and in cloud scenarios such as Azure Kubernetes Services and Google Kubernetes Engine. Finally, you will explore how to interact with your cluster, deploying Pods, Services, and Deployments. When you’re finished with this course, you will have the skills and knowledge of Kubernetes needed to administer a Kubernetes cluster and deploy applications in Kubernetes. Software required: Linux. This course can also help you prepare for your Certified Kubernetes Administrator (CKA) certification.
